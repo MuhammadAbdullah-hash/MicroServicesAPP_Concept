@@ -1,0 +1,8 @@
+pandas
+Flask==1.1.2
+langdetect==1.0.8
+xlrd >= 1.0.0
+openpyxl
+python-dotenv
+boto3
+chardet
