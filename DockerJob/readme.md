@@ -1,4 +1,4 @@
-# Sosoon Filter Docker 
+# Web APP Docker 
 
 Its the python script that loops through input Csv or Excel Files
 and filters data using langdetect library.

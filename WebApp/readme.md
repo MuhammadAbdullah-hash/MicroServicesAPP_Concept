@@ -1,13 +1,11 @@
-# Sosoon Filter App
+# Web APP
 
-Its express.js application that powers up our sosoon filter app.
-Its a microservices based architecture to provide scalibilty and 
-to be cost efficient.
+Its a microservices based architecture to provide scalibilty and  to be cost efficient.
 We are using ejs templating nodejs engine to render html templates
 inside browser.
 
 ## OverAll Functionality
-UI of the app is accesable at [filterapp](https://filter.sosoon.io/)
+UI of the app is accesable at [webapp](https://localhost:80/)
 At UI user can upload upto 15 Csv or Excel files each <=2mb.
 These files are stored in AWS-S3 bucket with following hiearchy : 
 - Language_Name/
